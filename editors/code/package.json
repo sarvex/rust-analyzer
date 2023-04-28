@@ -36,7 +36,7 @@
     },
     "dependencies": {
         "https-proxy-agent": "^5.0.0",
-        "node-fetch": "^2.6.1",
+        "node-fetch": "^2.6.7",
         "vscode-languageclient": "^7.1.0-next.5"
     },
     "devDependencies": {
